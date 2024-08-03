@@ -113,12 +113,19 @@ const unsigned short SKY_COLOR = 0x000E;
 
 const unsigned short _MASK = SKY_COLOR;
 
-const unsigned short M_RED = 0xF801;
+//Mario
+//const unsigned short M_RED = 0xF801;
+//const unsigned short M_SKIN = 0xfd28;
+//const unsigned short M_SHOES = 0xC300;
+//const unsigned short M_SHIRT = 0x7BCF;
+//const unsigned short M_HAIR = 0x0000;
+
+//Luigi?
+const unsigned short M_RED = 0xFFFF;
 const unsigned short M_SKIN = 0xfd28;
 const unsigned short M_SHOES = 0xC300;
-const unsigned short M_SHIRT = 0x7BCF;
+const unsigned short M_SHIRT = 0x4421;
 const unsigned short M_HAIR = 0x0000;
-
 
 // 'mario-idle', 13x16px
 const uint16_t MARIO_IDLE [] PROGMEM = {
